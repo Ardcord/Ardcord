@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Mon profile THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1767834)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ardcord.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/Ardcord" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ardcord.png" alt="Your Image Badge" />
+</a>
 
 <!--
 **Ardcord/Ardcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
