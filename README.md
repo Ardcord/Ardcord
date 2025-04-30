@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Ardcord&gstats=show&style=dark)
+
 <a href="https://tryhackme.com/p/Ardcord" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Ardcord.png" alt="Your Image Badge" />
 </a>
